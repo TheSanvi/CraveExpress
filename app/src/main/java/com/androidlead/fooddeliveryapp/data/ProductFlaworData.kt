@@ -1,6 +1,7 @@
 package com.androidlead.fooddeliveryapp.data
 
 import androidx.annotation.DrawableRes
+
 import com.androidlead.fooddeliveryapp.R
 
 data class ProductFlavorState(
